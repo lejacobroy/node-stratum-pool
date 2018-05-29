@@ -11,12 +11,14 @@
         "bitcoin",
         "litecoin",
         "scrypt"
+        "groestlmyriad"
     ],
     "homepage": "https://github.com/trustfarm/node-stratum-pool",
     "bugs": {
         "url": "https://github.com/trustfarm/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
+    "author": "KT Ahn (@trustfarm) ",
     "author": "Matthew Little",
     "contributors": [
         "vekexasia",
