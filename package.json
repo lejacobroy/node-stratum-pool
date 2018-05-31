@@ -10,7 +10,8 @@
         "poolserver",
         "bitcoin",
         "litecoin",
-        "scrypt"
+        "scrypt",
+        "groestl",
         "groestlmyriad"
     ],
     "homepage": "https://github.com/trustfarm/node-stratum-pool",
