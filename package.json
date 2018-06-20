@@ -12,7 +12,12 @@
         "litecoin",
         "scrypt",
         "groestl",
-        "groestlmyriad"
+        "groestlmyriad",
+        "lbry",
+        "timetravel10",
+        "neoscrypt",
+        "lyra2rev2",
+        "x13"
     ],
     "homepage": "https://github.com/trustfarm/node-stratum-pool",
     "bugs": {
